@@ -2,14 +2,14 @@
 
 # JForce SQL Developer Interview Task – Employee Management & Payroll Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on employee management and payroll analysis using **MySQL Stored Procedures**. It was developed as part of a SQL Developer interview assignment to demonstrate practical knowledge of database programming, salary calculations, conditional logic, and data analysis using SQL.
 
 The project involves managing employee records, generating salary reports, calculating salary components, assigning salary grades, and analyzing department-wise salary statistics using reusable stored procedures.
 
 --- 
-## 🎯 Objectives
+## Objectives
 
 - Develop and execute MySQL stored procedures for employee data management.
 - Retrieve employee records based on department, salary, and employment status.
